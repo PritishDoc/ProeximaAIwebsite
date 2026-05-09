@@ -1,0 +1,8 @@
+*.zip
+public_html.zip
+public_html/ProeximAI.zip
+public_html/rebuildattendance.zip
+public_html/summerinternship/summer.zip
+node_modules/
+vendor/
+.env

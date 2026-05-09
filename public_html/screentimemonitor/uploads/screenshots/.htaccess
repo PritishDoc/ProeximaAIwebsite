@@ -1,0 +1,8 @@
+# Deny direct access to screenshots via directory listing
+Options -Indexes
+
+# Allow image files to be served
+<FilesMatch "\.(jpg|jpeg|png|webp)$">
+    Order Allow,Deny
+    Allow from all
+</FilesMatch>
