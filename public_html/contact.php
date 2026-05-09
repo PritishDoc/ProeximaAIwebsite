@@ -161,7 +161,8 @@ include 'nav.php';
                         <div class="contact-info-icon">📧</div>
                         <div>
                             <div style="color: #fff; font-weight: 700; text-transform: uppercase; font-size: 0.7rem; letter-spacing: 1px; margin-bottom: 4px;">Email Us</div>
-                            info@proeximaai.com
+                            careers@proeximaai.com
+                            hr@proeximaai.com
                         </div>
                     </li>
                     <li>
