@@ -6,6 +6,9 @@
     <title>Proexima AI - Next-Gen AI Solutions</title>
     <meta name="description" content="Next-Gen AI Solutions for Smart Businesses">
     
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="Logo/3_T.svg">
+    
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

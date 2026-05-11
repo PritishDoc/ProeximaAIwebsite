@@ -2,7 +2,9 @@
     <header class="navbar">
         <div class="container nav-container">
             <div class="logo">
-                <a href="./">Proexima <span class="accent">AI</span></a>
+                <a href="./">
+                    <img src="Logo/2_TW_H.svg" alt="Proexima AI Logo">
+                </a>
             </div>
             <nav class="nav-links">
                 <a href="./">Home</a>
