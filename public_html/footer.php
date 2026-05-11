@@ -4,7 +4,9 @@
     <footer class="footer">
         <div class="container footer-container">
             <div class="footer-col brand-col">
-                <div class="logo">Proexima <span class="accent">AI</span></div>
+                <a href="./">
+                    <img src="Logo/2_TW_H.svg" alt="Proexima AI Logo" style="height: 50px; width: auto; object-fit: contain;">
+                </a>
                 <p style="margin-top: 15px; line-height: 1.6; color: var(--text-secondary);">Next-Gen AI Solutions for Smart Businesses. Empowering companies with intelligent automation.</p>
                 <div class="social-links" style="margin-top: 25px; display: flex; gap: 15px;">
                     <a href="https://www.linkedin.com/company/proexima-ai/" aria-label="LinkedIn" style="width: 40px; height: 40px; border: 1px solid var(--border-glass); border-radius: 50%; display: flex; align-items: center; justify-content: center; transition: var(--transition-fast);" onmouseover="this.style.borderColor='var(--accent-primary)'; this.style.color='var(--accent-primary)'" onmouseout="this.style.borderColor='var(--border-glass)'; this.style.color='inherit'"><i class="fab fa-linkedin-in"></i></a>
