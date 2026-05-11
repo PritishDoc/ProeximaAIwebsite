@@ -7,7 +7,7 @@
     <meta name="description" content="Next-Gen AI Solutions for Smart Businesses">
     
     <!-- Favicon -->
-    <link rel="icon" type="image/svg+xml" href="Logo/3_T.svg">
+    <link rel="icon" type="image/png" href="Logo/3.png">
     
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
